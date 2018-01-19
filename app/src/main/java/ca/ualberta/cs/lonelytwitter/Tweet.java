@@ -10,14 +10,19 @@ public abstract class Tweet implements Tweetable {
     private String message;
 
     private Date date;
+    ArrayList<mood> moodList;
+
 
     public Tweet(String message){
         this.message = message; //please always use "this" keyword
+        this.date = new Date();
+        this.moodList = new ArrayList<mood>();
 
     }
     public Tweet(String message, Date date){
         this.message = message;
         this.date = date;
+        this.moodList = new ArrayList<mood>();
 
     }
     public Date getDate(){
@@ -39,12 +44,8 @@ public abstract class Tweet implements Tweetable {
     }
     public abstract Boolean isImportant();
 
-    mood happy = new moodHappy();
-    mood sad = new moodSad();
-    ArrayList<mood> moodList = new ArrayList<mood>();
 
-    void mood_add() {
-        moodList.add(happy);
-        moodList.add(sad);
+    public void mood_add(mood someMood) {
+        moodList.add(someMood);
     }
 }
