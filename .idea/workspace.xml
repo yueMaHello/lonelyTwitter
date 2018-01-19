@@ -44,8 +44,8 @@
       <file leaf-file-name="Tweet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="33" lean-forward="false" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+            <state relative-caret-position="300">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#640#641#0" expanded="true" />
@@ -91,42 +91,44 @@
       <file leaf-file-name="mood.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/mood.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            <state relative-caret-position="302">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding>
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="moodHappy.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="moodHappy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/moodHappy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
                 <element signature="e#347#348#0" expanded="true" />
                 <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LonelyTwitterActivityTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LonelyTwitterActivityTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivityTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -150,17 +152,18 @@
       <file leaf-file-name="moodSad.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/moodSad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1914,8 +1917,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/importantTweet.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/mood.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/moodSad.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/moodHappy.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/moodSad.java" />
       </list>
     </option>
   </component>
@@ -2093,7 +2096,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516336221829" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516339850545" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2141,7 +2144,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516336221829" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516339850545" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2324,7 +2327,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516336221830" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516339850546" />
       </method>
     </configuration>
     <list size="1">
@@ -2447,43 +2450,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/NormalTweet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="33" lean-forward="false" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#1115#1116#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2519,58 +2491,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/mood.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="302">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding>
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/NormalTweet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/moodSad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/moodHappy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
             <element signature="e#347#348#0" expanded="true" />
             <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>

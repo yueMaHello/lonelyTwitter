@@ -8,14 +8,13 @@ package ca.ualberta.cs.lonelytwitter;
 import java.util.Date;
 
 public class moodHappy extends mood {
-    //private String moodMessage;
-    public moodHappy(String currentMood){
-        super(currentMood);
+    public moodHappy(){
+        super();
     }
-    public moodHappy(Date date,String currentMood){
-        super(date,currentMood);
+    public moodHappy(Date date){
+        super(date);
     }
-    public String representMood(){
+    public String currentMood(){
         return "Happy";
     }
     public Boolean isHappy() {
