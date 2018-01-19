@@ -7,12 +7,15 @@ import java.util.Date;
 
 public abstract class mood {
     private Date date;
+    private String currentMood;
 
-    public mood(){
+    public mood(String currentMood){
         this.date = new Date(); //set to default
+        this.currentMood = currentMood;
     }
-    public mood(Date date){
+    public mood(Date date,String currentMood){
         this.date = date;
+        this.currentMood = currentMood;
     }
     public Date getDate(){
         return date;

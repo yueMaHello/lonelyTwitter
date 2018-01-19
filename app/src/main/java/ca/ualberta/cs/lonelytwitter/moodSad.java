@@ -12,11 +12,11 @@ import java.util.Date;
 
 public class moodSad extends mood {
     //private String moodMessage;
-    public moodSad(){
-        super();
+    public moodSad(String currentMood){
+        super(currentMood );
     }
-    public moodSad(Date date){
-        super(date);
+    public moodSad(Date date,String currentMood){
+        super(date,currentMood);
     }
     public String representMood(){
         return "Sad";
