@@ -45,6 +45,7 @@ public class LonelyTwitterActivity extends Activity {
 
 		bodyText = (EditText) findViewById(R.id.body);
 		Button saveButton = (Button) findViewById(R.id.save);
+		Button clearButton = (Button) findViewById(R.id.clear);
 		oldTweetsList = (ListView) findViewById(R.id.oldTweetsList);
 
 
@@ -56,6 +57,19 @@ public class LonelyTwitterActivity extends Activity {
 				String text = bodyText.getText().toString();
 				Tweet tweet = new NormalTweet(text);
 				tweetList.add(tweet);
+
+				adapter.notifyDataSetChanged();
+
+				saveInFile();
+
+			}
+		});
+
+		clearButton.setOnClickListener(new View.OnClickListener() {
+
+			public void onClick(View v) {
+				setResult(RESULT_OK);
+				tweetList.clear();
 
 				adapter.notifyDataSetChanged();
 
@@ -127,24 +141,8 @@ public class LonelyTwitterActivity extends Activity {
 	protected void onDestroy() {
 		super.onDestroy();
 		Log.i("Lifecycle", "onDestroy is called");
-		setContentView(R.layout.main);
 
-		bodyText = (EditText) findViewById(R.id.body);
-		Button clearButton = (Button) findViewById(R.id.clear);
-		oldTweetsList = (ListView) findViewById(R.id.oldTweetsList);
 
-		clearButton.setOnClickListener(new View.OnClickListener() {
-
-			public void onClick(View v) {
-				setResult(RESULT_OK);
-				tweetList.clear();
-
-				adapter.notifyDataSetChanged();
-
-				saveInFile();
-
-			}
-		});
 
 	}
 }
