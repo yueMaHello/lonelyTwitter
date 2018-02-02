@@ -1,3 +1,11 @@
+/*
+ * Copyright (c)2018 Team X, CMPUT301. University of Alberta - All Rights Reserved.
+ * You may use, distribute or modify this code under terms and conditions of Code of
+ * Student Behaviour at U of A. You can find a copy of the license in this project. Otherwise
+ * please contact ym5@ualberta.ca
+ * /
+ */
+
 package ca.ualberta.cs.lonelytwitter;
 
 import java.io.BufferedReader;
@@ -25,7 +33,11 @@ import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-
+/**
+ * Represents a tweet
+ * @author: Yue Ma
+ * @version: 1.0
+ */
 public class LonelyTwitterActivity extends Activity {
 
 	private static final String FILENAME = "tweet_list.sav";
@@ -93,6 +105,10 @@ public class LonelyTwitterActivity extends Activity {
 
 	}
 
+	/**
+	 * load the tweet lists from the file
+	 */
+
 	private void loadFromFile() {
 
 		try {
@@ -116,7 +132,10 @@ public class LonelyTwitterActivity extends Activity {
 		}
 
 	}
-	//saving files without prameters
+
+	/**
+	 * 	saving files without prameters
+	 */
 	private void saveInFile() {
 		try {
 			FileOutputStream fos = openFileOutput(FILENAME,
