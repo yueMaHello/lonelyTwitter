@@ -46,7 +46,7 @@ public class tweetListTest extends ActivityInstrumentationTestCase2 {
         tweets.add(tweet);
         try{
 
-            tweets.add(tweet);
+            tweets.addTweet(tweet);
         }
         catch(Exception DuplicationException){
             assertTrue(Boolean.TRUE);
