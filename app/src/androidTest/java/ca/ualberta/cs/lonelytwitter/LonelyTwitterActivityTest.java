@@ -27,4 +27,5 @@ public class LonelyTwitterActivityTest extends ActivityInstrumentationTestCase2 
         Activity activity = getActivity();
 
     }
+
 }
